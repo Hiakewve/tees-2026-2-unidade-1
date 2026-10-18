@@ -26,5 +26,5 @@ Este projeto explora a exposição de um mesmo domínio de **Rede Social** atrav
 
 As instruções completas e os exemplos copiáveis de requisições e respostas para todas as 10 operações estão disponíveis nos READMEs específicos de cada subpasta:
 
-1. [Instruções do Projeto REST (JSON)](./rest-json/README.md)
+1. [Instruções do Projeto REST (JSON)](./rest-json/readme.md)
 2. [Instruções do Projeto GraphQL (JSON)](./graphql/README.md)
